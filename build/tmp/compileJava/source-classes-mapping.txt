@@ -1,0 +1,18 @@
+com/example/demo/models/Bike.java
+ com.example.demo.models.Bike
+com/example/demo/Autowired.java
+ com.example.demo.Autowired
+com/example/demo/models/Car.java
+ com.example.demo.models.Car
+com/example/demo/models/Truck.java
+ com.example.demo.models.Truck
+com/example/demo/BeanProperty.java
+ com.example.demo.BeanProperty
+com/example/demo/AnnotationConfig.java
+ com.example.demo.AnnotationConfig
+com/example/demo/models/Vehicle.java
+ com.example.demo.models.Vehicle
+com/example/demo/models/Tyre.java
+ com.example.demo.models.Tyre
+com/example/demo/XMLConfig.java
+ com.example.demo.XMLConfig
